@@ -35,7 +35,7 @@ class Main {
 
         Integer[] arr1 = {13, 7, 6, 12};
 
-        //Aquí la Complejidad del tiempo: . El peor de los casos ocurre cuando todos
+        //Aquí la Complejidad del tiempo. El peor de los casos ocurre cuando todos
         // los elementos se ordenan en orden decreciente.
         printSEMConDosBucles(Arrays.asList(arr));
         System.out.println();
